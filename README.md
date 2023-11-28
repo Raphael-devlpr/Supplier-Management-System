@@ -3,7 +3,7 @@
 
 
 ,
-[GitHub](https://github.com/Raphael-devlpr).
+[GitHub](https://github.com/Raphael-devlpr)..
 
 ##  You will need a MySQL Database & Node installed///
 
