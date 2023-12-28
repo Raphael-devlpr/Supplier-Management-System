@@ -5,7 +5,7 @@
 
 
 ,
-[GitHub](https://github.com/Raphael-devlpr)...
+[GitHub](https://github.com/Raphael-devlpr)
 
 
 
