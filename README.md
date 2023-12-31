@@ -18,7 +18,7 @@
 
 
 ## Create ..env file
-Create a .env file to store your database credentials.m,
+Create a .env file to store your database credentials...
 
 
 
