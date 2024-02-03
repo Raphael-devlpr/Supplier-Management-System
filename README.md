@@ -1,4 +1,4 @@
-﻿# Supplier-Management-System
+y﻿# Supplier-Management-System
 # Node.js User Management System - Express, Express-Handlebars, HBS, MySQL
 
 
@@ -25,7 +25,7 @@ Create a .env file to store your database credentials...
 
 
 
- Corel host- Update- 23:48 25 November 
+ Corel host- Update- 23:48 25 November..
 ```
 DB_HOST = localhost
 DB_NAME = usermanagement_tut
