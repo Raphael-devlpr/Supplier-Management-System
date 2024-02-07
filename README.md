@@ -22,7 +22,7 @@ y﻿# Supplier-Management-System
 
 
 ## Create ..env file
-Create a .env file to store your database credentials...
+Create a .env file to store your database credentials..
 
 
 
