@@ -16,7 +16,7 @@ y﻿# Supplier-Management-System
 
 
 
-##  You will need a MySQL Database & Node installed.
+##  You will need a MySQL Database & Node installed...
 
 
 
